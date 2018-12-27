@@ -12,10 +12,12 @@ body {
     background-color: #c98715;
     border-radius: 0;
     border: 0;
+    text-align: center;
 }
 
 #header-nav button {
     margin-top: 22px;
+    text-align: center;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
@@ -24,6 +26,7 @@ body {
 
 .navbar-collapse {
     border-top: 0;
+    text-align: center;
 }
 
 .navbar-brand, .navbar-nav li a {
